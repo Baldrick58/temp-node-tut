@@ -6,6 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baldrick58/temp-node-tut.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baldrick58/temp-node-tut/issues"
+  },
+  "homepage": "https://github.com/Baldrick58/temp-node-tut#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "lodash": "^4.17.21"
+  }
 }
